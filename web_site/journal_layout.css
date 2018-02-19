@@ -1,0 +1,46 @@
+#date {
+	border-bottom: 2px blue dashed;
+}
+
+#green {
+	border: 10px white solid;
+	background-color: white;
+}
+
+.blue {
+	border: 4px #C2E9E9 solid;
+	background-color: #E8FBFB;
+	padding: 5px 5px;
+	margin-top: 10px;
+	overflow: hidden;
+	margin-left: 22%;
+}
+
+#red {
+	text-align: right;
+	background-color: #A8F0F0;
+}
+
+#orange {
+	font-size: 14px;
+}
+
+body {
+	margin-left: 10%;
+	margin-right: 10%;
+	background-color: lightblue;
+	/* link for background-image is not working */
+}
+
+nav {
+	float: left;
+	border: 4px lightblue solid;
+	background-color: lightcyan;
+	max-width: 160px;
+    margin: 1em;
+    padding: 1em;
+}
+
+*:hover {
+	background-color: yellow;
+}
